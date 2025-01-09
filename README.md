@@ -14,7 +14,7 @@ L'objectif de ce dépôt est de :
 Voici comment les fichiers sont organisés :
 
 ```
-/exercices
+.
 ├── basics/
 ├── intermediate/
 ├── projects/
