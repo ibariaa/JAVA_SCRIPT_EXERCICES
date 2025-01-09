@@ -18,7 +18,7 @@ Voici comment les fichiers sont organisés :
 ├── basics/
 ├── intermediate/
 ├── projects/
-├── README.md
+└── README.md
 ```
 
 - `basics/` : Exercices fondamentaux pour apprendre les bases du JavaScript.
