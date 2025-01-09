@@ -16,8 +16,22 @@ Voici comment les fichiers sont organisés :
 ```
 .
 ├── basics/
+│   ├── setup_environment.js
+│   ├── console_experiments.js
+│   └── letter_tree.js
 ├── intermediate/
+│   ├── comments.js
+│   ├── functions.js
+│   └── arrays.js
 ├── projects/
+│   ├── tic_tac_toe/
+│   │   ├── index.html
+│   │   ├── style.css
+│   │   └── script.js
+│   ├── todo_app/
+│   │   ├── index.html
+│   │   ├── style.css
+│   │   └── app.js
 └── README.md
 ```
 
